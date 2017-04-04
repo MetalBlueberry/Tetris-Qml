@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TetrisScreen.qml</file>
+        <file>TetrisPoints.qml</file>
+    </qresource>
+</RCC>
