@@ -35,4 +35,6 @@ HEADERS += \
     figures.h \
     qmltetris.h
 
-DISTFILES +=
+DISTFILES += \
+    LICENSE \
+    README.md
